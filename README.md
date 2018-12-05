@@ -1,6 +1,6 @@
 
 
-构建两个神经网络，通过使它们相互对抗来生成真实人脸。
+构建两个神经网络，通过使它们相互对抗来生成手写数字和真实人脸。
 
 
 
@@ -24,6 +24,5 @@
 
 [DCGAN-tensorflow](https://github.com/carpedm20/DCGAN-tensorflow)
 
+[基于深度学习的人脸识别技术综述](https://zhuanlan.zhihu.com/p/24816781)
 
-
-A tensorflow implementation of "Deep Convolutional Generative Adversarial Networks"
